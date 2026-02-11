@@ -24,17 +24,17 @@ This project focuses on performing comprehensive **Data Cleaning** and **Feature
 In this project, I addressed various data quality issues using **Python** and **Pandas**:
 
 * **Handling Missing Values**:
-* Imputed missing entries in director, cast, and country with "Unknown" to preserve data integrity while acknowledging missing information.
-* Removed rows with null values in critical columns like date_added and rating where imputation wasn't feasible.
+  * Imputed missing entries in `director`, `cast`, and `country` with **"Unknown"** to preserve data integrity while acknowledging missing information.
+  * Removed rows with null values in critical columns like `date_added` and `rating` where imputation wasn't feasible.
 
 * **Feature Engineering (Duration Splitting)**:
-* Resolved the complexity of the duration column by splitting it into two distinct columns: duration_value (integer) and duration_unit (e.g., min, Seasons). This allows for numerical calculations on movie lengths and TV show seasons.
+  * Resolved the complexity of the `duration` column by splitting it into two distinct columns: `duration_value` (integer) and `duration_unit` (e.g., min, Seasons). This allows for numerical calculations on movie lengths and TV show seasons.
 
 * **Data Type Standardization**:
-* Converted newly created features into appropriate numerical types (int64) to enable mathematical analysis.
+  * Converted newly created features into appropriate numerical types (int64) to enable mathematical analysis.
 
 * **Dataset Export**:
-* Exported the final cleaned dataset into an Excel format (.xlsx) for seamless integration with BI tools.
+  * Exported the final cleaned dataset into an Excel format (.xlsx) for seamless integration with BI tools.
 
 ---
 
