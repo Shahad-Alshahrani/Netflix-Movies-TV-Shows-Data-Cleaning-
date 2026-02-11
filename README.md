@@ -13,9 +13,9 @@ This project focuses on performing comprehensive **Data Cleaning** and **Feature
 
 
 ### Cleaned Data (After Processing)
-<img width="80%" height="80%" alt="clean 1" src="https://github.com/user-attachments/assets/c4d991a0-b562-4e09-918e-6a0b2cda0ab3" />
+<img width="60%" height="60%" alt="clean 1" src="https://github.com/user-attachments/assets/c4d991a0-b562-4e09-918e-6a0b2cda0ab3" />
 
-<img width="80%" height="80%" alt="clean 2" src="https://github.com/user-attachments/assets/5ac8a43f-feae-4f15-8cf6-dcb8885f3a9c" />
+<img width="60%" height="60%" alt="clean 2" src="https://github.com/user-attachments/assets/5ac8a43f-feae-4f15-8cf6-dcb8885f3a9c" />
 
 
 ---
