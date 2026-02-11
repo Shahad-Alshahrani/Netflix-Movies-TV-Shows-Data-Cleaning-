@@ -39,7 +39,7 @@ In this project, I addressed various data quality issues using **Python** and **
 ---
 
 ## 🛠️ Tech Stack
-* **Data Source**:<a href="https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download">Kaggle</a>.
+* **Data Source**: <a href="https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download">Kaggle</a>.
 * **Language**: Python.
 * **Libraries**: Pandas.
 * **Environment**: Google Colab.
