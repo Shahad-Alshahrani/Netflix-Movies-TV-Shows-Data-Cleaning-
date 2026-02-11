@@ -9,13 +9,12 @@ This project focuses on performing comprehensive **Data Cleaning** and **Feature
 
 ### Raw Data (Before Cleaning)
 
-<img width="80%" height="80%" alt="raw" src="https://github.com/user-attachments/assets/70adf24b-4cde-4f46-971a-5b55767e4a3f" />
+<img width="100%" height="100%" alt="rawwwwwwwwwwww" src="https://github.com/user-attachments/assets/32e9b957-8d52-41b0-aead-0cb4458e70ec" />
 
 
 ### Cleaned Data (After Processing)
-<img width="60%" height="60%" alt="clean 1" src="https://github.com/user-attachments/assets/c4d991a0-b562-4e09-918e-6a0b2cda0ab3" />
+<img width="100%" height="100%" alt="cleannnnnnnnnnn" src="https://github.com/user-attachments/assets/8f6fefc2-eadf-4bbb-a747-48d33c71d9ff" />
 
-<img width="60%" height="60%" alt="clean 2" src="https://github.com/user-attachments/assets/5ac8a43f-feae-4f15-8cf6-dcb8885f3a9c" />
 
 
 ---
