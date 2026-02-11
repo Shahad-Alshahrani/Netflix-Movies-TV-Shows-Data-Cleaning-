@@ -1,7 +1,7 @@
 # 🎬 Netflix Movies & TV Shows Data Cleaning 
 
 ## 📌 Project Overview
-This project focuses on performing comprehensive Data Cleaning and Feature Engineering on the popular **Netflix** dataset. The raw data contained missing values, inconsistent duration formats, and unoptimized data types. Through a systematic cleaning process using Python, I transformed the raw dataset into a structured format ready for statistical analysis and visualization.
+This project focuses on performing comprehensive **Data Cleaning** and **Feature Engineering** on the popular **Netflix** dataset. The raw data contained missing values, inconsistent duration formats, and unoptimized data types. Through a systematic cleaning process using Python, I transformed the raw dataset into a structured format ready for statistical analysis and visualization.
 
 ---
 
